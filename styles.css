@@ -1,0 +1,34 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: deeppink;
+    cursor: cursor;
+}
+h1 {
+    font-size: 50px;
+    color: white;
+}
+p.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+p.blue{
+    color: blue;
+    font-style: bold;
+    font-size: 20px;
+}
+p.now{
+    color: whitesmoke;
+    font-style: bold;
+    font-size: 20px;
+}
+P.chaewon{
+    color: yellow;
+    font-style: bold;
+    font-size: 70px;
+}
+a {
+    color: yellow;
+    font-size: 20px;
+}
